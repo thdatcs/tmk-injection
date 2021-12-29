@@ -1,5 +1,5 @@
 # tmk-injection
-Solution for securely TMK injection into ATM/POS devices. This solution is specifically design to protect with ***end to end encryption TMK*** => It will be in compliance with ***PCI-PIN***
+Solution for remotely TMK injection into ATM/POS devices. This solution is specifically design to protect with ***end to end encryption TMK*** => It will be in compliance with ***PCI-PIN***
 
 ### Transaction Flow
 #### Import TMK
